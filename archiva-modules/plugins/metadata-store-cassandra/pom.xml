@@ -31,7 +31,7 @@
 
   <properties>
 
-    <cassandraVersion>2.0.9</cassandraVersion>
+    <cassandraVersion>4.0.10</cassandraVersion>
 
   </properties>
 
